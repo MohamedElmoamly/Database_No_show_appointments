@@ -1,6 +1,7 @@
 # Project: Investigate a Dataset - [Medical Appointment No Shows]
 ## Table of Contents
 - Introduction
+- Data Wrangling
 - Exploratory Data Analysis
 - Conclusions
 
